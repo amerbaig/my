@@ -6,7 +6,7 @@ public class Main {
     myObj.x = 40;
     System.out.println(myObj.x);
 	
-	asfddsfsdf	
+	file
   }
 }
 	
