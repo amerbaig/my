@@ -5,5 +5,8 @@ public class Main {
     Main myObj = new Main();
     myObj.x = 40;
     System.out.println(myObj.x);
+	
+	asfddsfsdf	
   }
 }
+	
