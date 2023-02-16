@@ -1,12 +1,6 @@
 public class Main {
-  int x;
-
-  public static void main(String[] args) {
-    Main myObj = new Main();
-    myObj.x = 40;
-    System.out.println(myObj.x);
-	
-	file
-  }
-}
+	public static void main (String[] args){
+	   System.out.pringln("Hello hyderabad");
+	}
+}	
 	
